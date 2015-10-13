@@ -1,0 +1,56 @@
+.statusbar1 {
+	background-color: #D8D8D8;
+	height: 10px;
+}
+.statusbar2 {
+	background-color: #D8D8D8;
+	height: 90px;
+}
+.bluebox {
+	background-color: #4990E2;
+	height: 80px;
+	width: 80px;
+	margin-left: 20px;
+}
+
+
+.textbar {
+	background-color: #FFFFFF;
+	height: 200px;
+}
+
+p {
+	width: 80%;
+	margin-left: 50px;
+	font-family: Arial;
+	font-size: 1em;
+	margin: auto;
+    position: absolute;
+    top: 140px; left: 0; bottom: 0; right: 0;
+}
+
+
+.color1 {
+	background-color: #4990E2;
+	height: 100px;
+}
+
+.color2 {
+	background-color: #4FE3C1;
+	height: 100px;
+}
+
+.color3 {
+	background-color: #B9E888;
+	height: 100px;
+}
+
+.color4 {
+	background-color: #F8E71E;
+	height: 100px;
+}
+
+html, body {
+	margin: 0px;
+	padding: 0px;
+}

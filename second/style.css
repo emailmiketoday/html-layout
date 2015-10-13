@@ -1,0 +1,43 @@
+body, html {
+	background-color:#EFEFEF;
+	margin: 0px;
+}
+
+.left {
+	background-color: #4990E2;
+	float: left;
+	height: 1024px;
+	width: 33%;
+}
+
+.middle {
+	background-color: #4FE3C1;
+	float: left;
+	height: 1024px;
+	width: 33%
+}
+
+.right {
+	background-color: #B9E888;
+	float: left;
+	height: 1024px;
+	width: 33%
+}
+
+.botright {
+	background-color: #D0011A;
+	float: right;
+	height: 256px;
+	width: 100%;
+	margin-top: 768px;
+}
+
+p {
+	color: white;
+	text-align: center;
+	font-size: 2em;
+	font-family: Helvetica;
+	margin: auto;
+	margin-top: 110px;
+	
+}
