@@ -1,16 +1,18 @@
-.statusbar1 {
-	background-color: #D8D8D8;
-	height: 10px;
+* {
+	box-sizing: border-box;
 }
-.statusbar2 {
+
+
+.statusbar {
 	background-color: #D8D8D8;
-	height: 90px;
+	height: 100px;
+	padding-left: 20px;
+	padding-top: 10px;
 }
 .bluebox {
 	background-color: #4990E2;
 	height: 80px;
 	width: 80px;
-	margin-left: 20px;
 }
 
 
